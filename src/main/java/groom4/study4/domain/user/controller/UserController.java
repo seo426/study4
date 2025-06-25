@@ -1,7 +1,7 @@
 package groom4.study4.domain.user.controller;
 
 import groom4.study4.config.jwt.JwtTokenProvider;
-import groom4.study4.domain.user.User;
+//import groom4.study4.domain.user.User;
 import groom4.study4.domain.user.dto.UserReqDto;
 import groom4.study4.domain.user.dto.UserResDto;
 import groom4.study4.domain.user.service.UserService;
